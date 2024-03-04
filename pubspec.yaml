@@ -1,0 +1,87 @@
+name: anthr
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.1.0+24
+
+environment:
+  sdk: ">=3.0.5 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  syncfusion_flutter_charts: ^24.2.7+1
+  pinput: ^4.0.0
+  google_fonts: ^6.1.0
+  analog_clock: ^0.1.1
+  slide_digital_clock: ^1.0.3
+  intl: ^0.18.0
+  flutter_svg: ^2.0.10+1
+  table_calendar: ^3.0.9
+  quiver: ^3.2.1
+  provider: ^6.1.1
+  http: ^1.2.1
+  file_picker: ^6.1.1
+  google_maps_flutter: ^2.5.3
+  geolocator: ^11.0.0
+  maps_toolkit: ^3.0.0
+  day: ^0.8.0
+  expand_widget: ^3.1.1
+  flutter_slidable: ^3.0.1
+  swipeable_tile: ^2.0.0+3
+  month_picker_dialog: ^2.11.0
+  expandable_page_view: ^1.0.17
+  badges: ^3.1.2
+  pdf: ^3.10.8
+  path_provider: ^2.1.2
+  open_file: ^3.3.2
+  printing: ^5.12.0
+  jwt_decoder: ^2.0.1
+  flutter_secure_storage: ^9.0.0
+  equatable: ^2.0.5
+  dartz: ^0.10.1
+  flutter_bloc: ^8.1.4
+  get_it: ^7.6.7
+  dots_indicator: ^3.0.0
+  dropdown_button2: ^2.3.9
+  flutter_launcher_icons: "^0.13.1"
+  flutter_lints: ^3.0.1
+  searchfield: ^0.9.2
+  quickalert: ^1.0.2
+  geocoding: ^2.2.0
+  logger: ^2.0.2+1
+  shimmer: ^3.0.0
+  permission_handler: ^11.3.0
+  dio: ^5.4.1
+  location: ^5.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/ant_app_icon.png"
+  remove_alpha_ios: true
+  min_sdk_android: 21
+
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo/
+    - assets/icons/
+    - assets/images/
+    - assets/images/manager_overview/
+    - assets/manager/
+    - assets/manager/home_page/
+    - assets/icons/overview_manager/
+
+  fonts:
+    - family: kanit
+      fonts:
+        - asset: assets/google_fonts/Kanit-Regular.ttf

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34.04 30.54">
+  <g id="Layer_2-2" data-name="Layer 2">
+    <rect x="0" y="0" width="34.04" height="30.54" rx="3.15" ry="3.15" style="fill: #2bb673; opacity: .2;"/>
+    <g>
+      <circle cx="17.02" cy="15.5" r="12.42" style="fill: #30b98f;"/>
+      <polyline points="12.69 15.54 16.5 19.35 22.74 13.11" style="fill: none; stroke: #fff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;"/>
+    </g>
+  </g>
+</svg>
